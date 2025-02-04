@@ -1,2 +1,3 @@
 # js-practice
-code for javascript
+console.log("Monika");
+
